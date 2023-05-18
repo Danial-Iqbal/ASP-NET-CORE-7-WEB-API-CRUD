@@ -1,0 +1,12 @@
+D:\WorkSpace\DANIAL\poc\inlogic\inlogic\src\CRUD.Model\bin\Debug\net7.0\CRUD.Model.deps.json
+D:\WorkSpace\DANIAL\poc\inlogic\inlogic\src\CRUD.Model\bin\Debug\net7.0\CRUD.Model.dll
+D:\WorkSpace\DANIAL\poc\inlogic\inlogic\src\CRUD.Model\bin\Debug\net7.0\CRUD.Model.pdb
+D:\WorkSpace\DANIAL\poc\inlogic\inlogic\src\CRUD.Model\obj\Debug\net7.0\CRUD.Model.csproj.AssemblyReference.cache
+D:\WorkSpace\DANIAL\poc\inlogic\inlogic\src\CRUD.Model\obj\Debug\net7.0\CRUD.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\DANIAL\poc\inlogic\inlogic\src\CRUD.Model\obj\Debug\net7.0\CRUD.Model.AssemblyInfoInputs.cache
+D:\WorkSpace\DANIAL\poc\inlogic\inlogic\src\CRUD.Model\obj\Debug\net7.0\CRUD.Model.AssemblyInfo.cs
+D:\WorkSpace\DANIAL\poc\inlogic\inlogic\src\CRUD.Model\obj\Debug\net7.0\CRUD.Model.csproj.CoreCompileInputs.cache
+D:\WorkSpace\DANIAL\poc\inlogic\inlogic\src\CRUD.Model\obj\Debug\net7.0\CRUD.Model.dll
+D:\WorkSpace\DANIAL\poc\inlogic\inlogic\src\CRUD.Model\obj\Debug\net7.0\refint\CRUD.Model.dll
+D:\WorkSpace\DANIAL\poc\inlogic\inlogic\src\CRUD.Model\obj\Debug\net7.0\CRUD.Model.pdb
+D:\WorkSpace\DANIAL\poc\inlogic\inlogic\src\CRUD.Model\obj\Debug\net7.0\ref\CRUD.Model.dll

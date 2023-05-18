@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "92JHG8BbSpoVDZ+qKyuqQ8cOkOqW2/u4YNZMa9/RwSw=",
+  "Source": "CRUD.WebApi",
+  "BasePath": "_content/CRUD.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

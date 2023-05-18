@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zhHBqCFWsu7g/cKnIqIQZK1Q9h+Nt5GYGAVFJY2AnvBZ3G9/QpBGBE82vRUqXw5cFNXw0qVaPKryOUwE3EOjew==",
+  "success": true,
+  "projectFilePath": "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Service\\CRUD.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danial.iqbal\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\danial.iqbal\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

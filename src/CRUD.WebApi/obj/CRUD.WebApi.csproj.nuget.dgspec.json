@@ -1,0 +1,335 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.WebApi\\CRUD.WebApi.csproj": {}
+  },
+  "projects": {
+    "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Dependency\\CRUD.Dependency.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Dependency\\CRUD.Dependency.csproj",
+        "projectName": "CRUD.Dependency",
+        "projectPath": "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Dependency\\CRUD.Dependency.csproj",
+        "packagesPath": "C:\\Users\\danial.iqbal\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Dependency\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danial.iqbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Service\\CRUD.Service.csproj": {
+                "projectPath": "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Service\\CRUD.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Domain\\CRUD.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Domain\\CRUD.Domain.csproj",
+        "projectName": "CRUD.Domain",
+        "projectPath": "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Domain\\CRUD.Domain.csproj",
+        "packagesPath": "C:\\Users\\danial.iqbal\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danial.iqbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Model\\CRUD.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Model\\CRUD.Model.csproj",
+        "projectName": "CRUD.Model",
+        "projectPath": "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Model\\CRUD.Model.csproj",
+        "packagesPath": "C:\\Users\\danial.iqbal\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danial.iqbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Service\\CRUD.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Service\\CRUD.Service.csproj",
+        "projectName": "CRUD.Service",
+        "projectPath": "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Service\\CRUD.Service.csproj",
+        "packagesPath": "C:\\Users\\danial.iqbal\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danial.iqbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Domain\\CRUD.Domain.csproj": {
+                "projectPath": "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Domain\\CRUD.Domain.csproj"
+              },
+              "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Model\\CRUD.Model.csproj": {
+                "projectPath": "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Model\\CRUD.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.WebApi\\CRUD.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.WebApi\\CRUD.WebApi.csproj",
+        "projectName": "CRUD.WebApi",
+        "projectPath": "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.WebApi\\CRUD.WebApi.csproj",
+        "packagesPath": "C:\\Users\\danial.iqbal\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\danial.iqbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Dependency\\CRUD.Dependency.csproj": {
+                "projectPath": "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Dependency\\CRUD.Dependency.csproj"
+              },
+              "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Service\\CRUD.Service.csproj": {
+                "projectPath": "D:\\WorkSpace\\DANIAL\\poc\\inlogic\\inlogic\\src\\CRUD.Service\\CRUD.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
