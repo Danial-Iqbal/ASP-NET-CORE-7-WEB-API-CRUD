@@ -1,6 +1,6 @@
 # inlogic
 
-# .NET 7
+# .NET 8
 
 # DOT NET CORE PROJECT
 
